@@ -1,4 +1,4 @@
-﻿Timestep(1/Ha),Energy and Errorbar(Ha),Accept Ratio
+﻿timestep,energy,acceptance
 0.001,-2.2454(6),0.99997
 0.002,-2.2448(9),0.999
 0.003,-2.2448(5),0.9998
